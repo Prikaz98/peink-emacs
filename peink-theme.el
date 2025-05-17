@@ -69,7 +69,7 @@
    `(font-lock-constant-face ((t (:foreground ,fg))))
    `(font-lock-doc-face ((t (:foreground ,fg :weight semi-bold))))
    `(font-lock-function-name-face ((t (:foreground ,fg))))
-   `(font-lock-keyword-face ((t (:foreground "#808080"))))
+   `(font-lock-keyword-face ((t (:foreground "#595959"))))
    `(font-lock-preprocessor-face ((t (:foreground ,fg))))
    `(font-lock-reference-face ((t (:foreground ,fg))))
    `(font-lock-string-face ((t (:foreground ,fg :weight bold))))
